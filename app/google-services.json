@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "32555525229",
+    "firebase_url": "https://cloths-app-b69ae-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cloths-app-b69ae",
+    "storage_bucket": "cloths-app-b69ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32555525229:android:a7f551a782bd1610418b64",
+        "android_client_info": {
+          "package_name": "com.ali.clothsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjjaRBll4XCwHNtYJujfedmGzpsRiUpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
