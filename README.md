@@ -35,9 +35,7 @@ An Android e-commerce application built using **Kotlin**, **Firebase**, and **XM
 
 ## 📷 Screens (Add your screenshots here)  
 
-| Onboarding | Home | Categories | Product Details | Cart | Profile | Orders |  
-|------------|------|------------|----------------|------|---------|--------|  
-| ![screen1](https://github.com/user-attachments/assets/ebe06a75-f09f-43f1-be17-9a7651942216)|
+ ![screen1](https://github.com/user-attachments/assets/ebe06a75-f09f-43f1-be17-9a7651942216)|
 ![screen2](https://github.com/user-attachments/assets/84287ac5-a876-44da-9fa4-57f7df777eb7) |
 ![screen3](https://github.com/user-attachments/assets/b8d21a1a-4297-49c5-98d3-f0cee65f5b67) | 
 ![screen4](https://github.com/user-attachments/assets/bf1ee043-eeca-43ee-9da9-b4b720f9227c) |
